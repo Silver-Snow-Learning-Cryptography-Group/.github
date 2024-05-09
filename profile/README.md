@@ -1,6 +1,7 @@
 # Silver-Snow-Learning-Cryptography-Group
 
-![Logo To Add](link-to-organization-logo)
+![Logo](../resources/logo.png)
+
 Welcome to the official GitHub page of the Silver-Snow-Learning-Cryptography-Group! We are a group of passionate individuals dedicated to advancing the critical field of cryptography and delving into its applications across various cutting-edge technological domains.
 
 ## About Us
