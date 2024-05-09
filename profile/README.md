@@ -12,7 +12,8 @@ We believe that through collective wisdom and collaboration, we can unlock new h
 Our team not only pursues technological excellence but also values mutual learning and personal growth among its members. We regularly organize seminars and workshops to share the latest research findings, discuss industry trends, and explore future research directions. Through these activities, we hope to stimulate innovative thinking and cultivate the next generation of technological leaders.
 
 ## Members
-- [Plucky923](https://github.com/Plucky923) - Focuses on the intersection of cloud computing and operating system kernels. Hand rubbing the linux kernel.
+The following are ranked in no particular order
+- [Plucky923](https://github.com/Plucky923) - Focuses on the intersection of cloud computing and operating system kernels.
 - [Solar1s](https://github.com/chenzongyao200127) - A full-stack engineer with a keen interest in cryptography.
 - [c0ks](https://github.com/c0ks) - Investigates the applications of cryptography in federated learning.
 - [n0vic30926](https://github.com/n0vic30926) - Works on IoT security and fuzzing techniques.
