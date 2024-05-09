@@ -16,7 +16,7 @@ Our team not only pursues technological excellence but also values mutual learni
 - [Solar1s](https://github.com/chenzongyao200127) - A full-stack engineer with a keen interest in cryptography.
 - [Placebo27](https://github.com/Placebo27) - An expert in large models, cryptography, and an open-source mentor.
 - [n0vic30926](https://github.com/n0vic30926) - Works on IoT security and fuzzing techniques.
-- [tonglingxiangyu](https://github.com/tonglingxiangyu) - A skilled hacker with a focus on cybersecurity.
+- [tonglingxiangyu](https://github.com/tonglingxiangyu) - Beginners in network security, CTF water dispenser manager.
 - [k2436165](https://github.com/k2436165) - A hacker exploring the boundaries of cryptography.
 - [c0ks](https://github.com/c0ks) - Investigates the applications of cryptography in federated learning.
 - [jys12138](https://github.com/jys12138) - Combines chemistry with AI for innovative research.
