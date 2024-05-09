@@ -7,6 +7,11 @@ Welcome to the official GitHub page of the Silver-Snow-Learning-Cryptography-Gro
 ## About Us
 The Silver-Snow-Learning-Cryptography-Group is a diverse team composed of students who share a common interest in the discipline of cryptography. Each member of our team is deeply engaged in their respective areas of technological expertise, continuously striving for new breakthroughs. Our research interests span a wide range of areas, from advanced generative artificial intelligence technologies and in-depth studies on the security of operating system kernels, to key areas such as cloud security. Our aim is to thoroughly explore and understand how cryptographic techniques can enhance security and efficiency within these domains.
 
+The Silver-Snow-Learning-Cryptography-Group, known as the Youthful, Exemplary, Harmonious (YXH) Group, embodies the following qualities:
+
+- Youthful - The group is vibrant and dynamic, reflecting the energy and innovative spirit of youth.
+- Exemplary - They set a high standard for others to follow, demonstrating excellence and commitment in their field of cryptography.
+- Harmonious - The members work collaboratively, fostering an environment of unity and cooperation, which is essential for their collective success.
 We believe that through collective wisdom and collaboration, we can unlock new horizons in cryptography and apply it to solve real-world problems. We encourage communication and cooperation among team members to jointly drive technological advancement and contribute to the creation of a more secure and efficient technological environment.
 
 Our team not only pursues technological excellence but also values mutual learning and personal growth among its members. We regularly organize seminars and workshops to share the latest research findings, discuss industry trends, and explore future research directions. Through these activities, we hope to stimulate innovative thinking and cultivate the next generation of technological leaders.
