@@ -13,9 +13,9 @@ Our team not only pursues technological excellence but also values mutual learni
 
 ## Members
 - [Hammour-steak](https://github.com/Hammour-steak) - Specializes in AI and its cryptographic implications.
-- [Plucky923](https://github.com/Plucky923) - Focuses on the intersection of cloud computing and operating system kernels.
+- [Plucky923](https://github.com/Plucky923) - Focuses on the intersection of cloud computing and operating system kernels.Hand rubbing the linux kernel.
 - [Solar1s](https://github.com/chenzongyao200127) - A full-stack engineer with a keen interest in cryptography.
-- [Placebo27](https://github.com/Placebo27) - An expert in large models, cryptography, and an open-source mentor.
+- [Placebo27](https://github.com/Placebo27) - The last rank of the Cipher 10.
 - [n0vic30926](https://github.com/n0vic30926) - Works on IoT security and fuzzing techniques.
 - [tonglingxiangyu](https://github.com/tonglingxiangyu) - Beginners in network security, CTF water dispenser manager.
 - [k2436165](https://github.com/k2436165) - A hacker exploring the boundaries of cryptography.
