@@ -1,6 +1,6 @@
 # Silver-Snow-Learning-Cryptography-Group
 
-![Logo](../resources/logo.png)
+![Logo](https://github.com/Silver-Snow-Learning-Cryptography-Group/.github/blob/main/resources/logo.png)
 
 Welcome to the official GitHub page of the Silver-Snow-Learning-Cryptography-Group! We are a group of passionate individuals dedicated to advancing the critical field of cryptography and delving into its applications across various cutting-edge technological domains.
 
@@ -13,14 +13,14 @@ Our team not only pursues technological excellence but also values mutual learni
 
 ## Members
 - [Hammour-steak](https://github.com/Hammour-steak) - Specializes in AI and its cryptographic implications.
-- [Plucky923](https://github.com/Plucky923) - Focuses on the intersection of cloud computing and operating system kernels.Hand rubbing the linux kernel.
+- [Plucky923](https://github.com/Plucky923) - Focuses on the intersection of cloud computing and operating system kernels. Hand rubbing the linux kernel.
+- [c0ks](https://github.com/c0ks) - Investigates the applications of cryptography in federated learning.
 - [Solar1s](https://github.com/chenzongyao200127) - A full-stack engineer with a keen interest in cryptography.
-- [Placebo27](https://github.com/Placebo27) - The last rank of the Cipher 10.
 - [n0vic30926](https://github.com/n0vic30926) - Works on IoT security and fuzzing techniques.
 - [tonglingxiangyu](https://github.com/tonglingxiangyu) - Beginners in network security, CTF water dispenser manager.
 - [k2436165](https://github.com/k2436165) - A hacker exploring the boundaries of cryptography.
-- [c0ks](https://github.com/c0ks) - Investigates the applications of cryptography in federated learning.
 - [jys12138](https://github.com/jys12138) - Combines chemistry with AI for innovative research.
+- [Placebo27](https://github.com/Placebo27) - The last rank of the Cipher 10.
 
 <!--
 
